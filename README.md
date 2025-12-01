@@ -114,17 +114,6 @@ Implements:
   → Generates SVG/HTML visualizations of networks  
 - `liste_script.gnuplot`  
   → Script used to generate performance plots  
-
-### **Test & Output Data**
-- Multiple `.cha` and `.res` datasets  
-- `affichageChaines.txt`, `affichageReseau.txt`  
-- Timing results:  
-  - `vitesseA.txt` (quadtree)  
-  - `vitesseH.txt` (hashing)  
-  - `vitesseL.txt` (list)  
-  - `sortie_vitesse_liste.txt`  
-  - `sortie_vitesse_hachage_arbre.txt`
-
 ---
 
 ## Compile & Run
