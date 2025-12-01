@@ -113,7 +113,10 @@ Implements:
 - `SVGwriter.h`  
   → Generates SVG/HTML visualizations of networks  
 - `liste_script.gnuplot`  
-  → Script used to generate performance plots  
+  → Script used to generate performance plots
+- `Arb_Hach_script.gnuplot`  
+  → Gnuplot script used to generate performance curves comparing **hash table** vs **quadtree** reconstruction speeds.
+  
 ---
 
 ## Compile & Run
